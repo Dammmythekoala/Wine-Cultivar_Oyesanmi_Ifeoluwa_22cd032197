@@ -1,0 +1,14 @@
+{
+  "selected_features": [
+    "alcohol",
+    "malic_acid",
+    "ash",
+    "alcalinity_of_ash",
+    "total_phenols",
+    "flavanoids"
+  ],
+  "algorithm": "RandomForestClassifier",
+  "model_file": "wine_cultivar_model.pkl",
+  "persistence": "joblib",
+  "accuracy": 0.9166666666666666
+}

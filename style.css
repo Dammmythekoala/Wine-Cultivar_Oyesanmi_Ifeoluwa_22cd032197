@@ -1,0 +1,5 @@
+.card{max-width:520px;margin:40px auto;padding:20px;border-radius:12px;box-shadow:0 6px 20px rgba(0,0,0,0.08);font-family:Arial,Helvetica,sans-serif}
+label{display:block;margin-top:10px;font-weight:600}
+input{width:100%;padding:8px;margin-top:6px;border-radius:6px;border:1px solid #ddd}
+button{margin-top:12px;padding:10px 14px;border-radius:8px;border:none;background:#2563eb;color:white;font-weight:700}
+.result{margin-top:14px;padding:10px;background:#ecfdf5;border:1px solid #bbf7d0;border-radius:6px}
