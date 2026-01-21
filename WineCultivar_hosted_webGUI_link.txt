@@ -1,0 +1,6 @@
+Name: yourName
+Matric Number: yourMatricNumber
+Machine Learning Algorithm Used: RandomForestClassifier
+Model persistence method used: joblib
+Live URL of the hosted application: https://your-hosted-app-url.example
+GitHub repository link: https://github.com/yourusername/WineCultivar_Project_yourName_matricNo
